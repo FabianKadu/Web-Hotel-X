@@ -1,0 +1,40 @@
+﻿@model List<LibreriaClasesHotel.Models.VistaReservaciones>
+
+
+<header class="masthead3 text-white">
+    <h1 class="text-center">Lista de Reservas</h1>
+    <hr class="dividerMedium" />
+    <div class="container py-5">
+        <div class="table-responsive">
+            <table class="table text-white">
+                <thead class="thead-light" >
+                    <tr>
+                        <th scope="col">DNI</th>
+                        <th scope="col">Nombres y Apellidos</th>
+                        <th scope="col">Celular</th>
+                        <th scope="col">Habitacion</th>
+                        <th scope="col">Fecha Inicio</th>
+                        <th scope="col">Dias Estancia</th>
+                        <th scope="col">Monto</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+
+                        <tr>
+                            <td>@item.DNI</td>
+                            <td>@item.Apellido @item.Nombre</td>
+                            <td>@item.Telefono</td>
+                            <td>@item.numero_habitacion</td>
+                            <td>@item.fecha_inicio</td>
+                            <td>@item.dias_estancia</td>
+                            <td>S/.@(item.Precio * item.dias_estancia)</td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</header>

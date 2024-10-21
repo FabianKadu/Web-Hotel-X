@@ -1,0 +1,45 @@
+﻿@model LibreriaClasesHotel.Models.VistaReservaciones
+
+<header class="masthead2 text-white">
+    <div class="container px-4 px-lg-5 h-100">
+        <h1 class="text-center">Realice su reserva</h1>
+        <form class="row g-3" action="@Url.Action("Guardar","Reserva")" method="post">
+      
+            <div class="col-md-6">
+                <label for="inputApellido" class="form-label">Apellidos</label>
+                <input type="text" name="apellido" class="form-control" placeholder="Apellidos" >
+            </div>
+            <div class="col-md-6">
+                <label for="inputNombre" class="form-label">Nombres</label>
+                <input type="text" name="nombre" class="form-control" placeholder="Nombres">
+            </div>
+            <div class="col-12">
+                <label for="inputEmail" class="form-label">Email</label>
+                <input type="email" name="email" class="form-control" placeholder="Ejemplo@correo.com" >
+            </div>
+            <div class="col-md-6">
+                <label for="inputDni" class="form-label">DNI</label>
+                <input type="text" name="dni" class="form-control" placeholder="DNI">
+            </div>
+            <div class="col-md-6">
+                <label for="inputTelefono" class="form-label">Telefono</label>
+                <input type="text" name="telefono" class="form-control" placeholder="Telefono">
+            </div>
+            <div class="col-6">
+                <label for="inputFecha" class="form-label">Fecha de Inicio </label>
+                <input type="date" name="fecha_inicio" class="form-control" >
+            </div>
+            <div class="col-md-6">
+                <label for="inputDias" class="form-label">Dias de estancia</label>
+                <input type="number" name="dias_estancia" class="form-control" placeholder="Dias">
+            </div>
+            <div class="col-md-6">
+                <label for="inputDias" class="form-label">Habitacion</label>
+                <input type="number" name="numero_habitacion" class="form-control" placeholder="Número de Habitacion" >
+            </div>
+            <div class="col-12">
+                <button type="submit" class="btn btn-primary w-100 mt-3">Enviar</button>
+            </div>
+        </form>
+    </div>
+</header>

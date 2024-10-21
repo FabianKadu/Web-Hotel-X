@@ -1,0 +1,12 @@
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\bin\Debug\net7.0\LibreriaClasesHotel.deps.json
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\bin\Debug\net7.0\LibreriaClasesHotel.dll
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\bin\Debug\net7.0\LibreriaClasesHotel.pdb
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Debug\net7.0\LibreriaClasesHotel.csproj.AssemblyReference.cache
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Debug\net7.0\LibreriaClasesHotel.GeneratedMSBuildEditorConfig.editorconfig
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Debug\net7.0\LibreriaClasesHotel.AssemblyInfoInputs.cache
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Debug\net7.0\LibreriaClasesHotel.AssemblyInfo.cs
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Debug\net7.0\LibreriaClasesHotel.csproj.CoreCompileInputs.cache
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Debug\net7.0\LibreriaClasesHotel.dll
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Debug\net7.0\refint\LibreriaClasesHotel.dll
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Debug\net7.0\LibreriaClasesHotel.pdb
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Debug\net7.0\ref\LibreriaClasesHotel.dll

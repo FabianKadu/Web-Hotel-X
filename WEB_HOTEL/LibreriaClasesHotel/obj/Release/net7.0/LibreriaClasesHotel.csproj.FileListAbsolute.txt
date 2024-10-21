@@ -1,0 +1,24 @@
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\bin\Release\net7.0\LibreriaClasesHotel.deps.json
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\bin\Release\net7.0\LibreriaClasesHotel.dll
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\bin\Release\net7.0\LibreriaClasesHotel.pdb
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.csproj.AssemblyReference.cache
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.GeneratedMSBuildEditorConfig.editorconfig
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.AssemblyInfoInputs.cache
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.AssemblyInfo.cs
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.csproj.CoreCompileInputs.cache
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.dll
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\refint\LibreriaClasesHotel.dll
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.pdb
+F:\LABORATORIOS\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\ref\LibreriaClasesHotel.dll
+E:\U\2022 - II\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\bin\Release\net7.0\LibreriaClasesHotel.deps.json
+E:\U\2022 - II\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\bin\Release\net7.0\LibreriaClasesHotel.dll
+E:\U\2022 - II\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\bin\Release\net7.0\LibreriaClasesHotel.pdb
+E:\U\2022 - II\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.csproj.AssemblyReference.cache
+E:\U\2022 - II\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.GeneratedMSBuildEditorConfig.editorconfig
+E:\U\2022 - II\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.AssemblyInfoInputs.cache
+E:\U\2022 - II\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.AssemblyInfo.cs
+E:\U\2022 - II\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.csproj.CoreCompileInputs.cache
+E:\U\2022 - II\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.dll
+E:\U\2022 - II\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\refint\LibreriaClasesHotel.dll
+E:\U\2022 - II\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\LibreriaClasesHotel.pdb
+E:\U\2022 - II\DESARROLLO WEB\PROYECTO\WEB_HOTEL\LibreriaClasesHotel\obj\Release\net7.0\ref\LibreriaClasesHotel.dll
